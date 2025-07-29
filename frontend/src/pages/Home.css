@@ -1,0 +1,11 @@
+.payhere {
+  background: transparent;
+  color: white;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.payhere:hover {
+  cursor: pointer;
+}
