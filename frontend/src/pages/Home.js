@@ -16,9 +16,9 @@ export default function Home() {
     <div className="login-wrapper"> {/* 👈 Reuse same background */}
       <div className="home-content">
         <h1 className="welcome-title">Welcome, {username}!</h1><br></br>
-<button className="payhere" onClick={() => window.open('http://localhost:5173', '_blank')}>
+{/* 👈 Reuse same background <button className="payhere" onClick={() => window.open('http://localhost:5173', '_blank')}>
   Pay Here
-</button>
+</button>*/}
 
 
       </div>
